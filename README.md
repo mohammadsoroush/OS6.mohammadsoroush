@@ -81,7 +81,7 @@ as soon as file opened, cursor is at the sixth line and third column.
 
 
 
-                                        {{You can backup a file before the file get edited.}}
+                                    {{You can backup a file before the file get edited.}}
 
 syntax: nano -B file_name
 
