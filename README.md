@@ -14,6 +14,8 @@ ls -r
 
 
 Descending sort(by Time):
+
+
 ls -lt
 
 
@@ -25,6 +27,8 @@ ls -t
 
 
 Descending sort(by Size):
+
+
 ls -S -l
 
 
