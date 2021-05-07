@@ -76,7 +76,7 @@ as soon as file opened, cursor is at the sixth line and third column.
 
 
 
-                                                                ......................
+                                                  ......................
 
 
 
