@@ -66,7 +66,7 @@ syntax: zip -e new_zip_file.zip
 
 Question 4:
 
-                                                    {{You can place cursor on specific line and column at startup}}
+                                     {{You can place cursor on specific line and column at startup}}
 
 syntax: nano +line,column file_name
 
@@ -75,7 +75,7 @@ Ex: nano +6,3 Test.txt
 as soon as file opened, cursor is at the sixth line and third column.
 
 
-**************
+.........................
 
 
 
