@@ -89,7 +89,7 @@ The backuped file will be saved in the current directory with the same filename 
 
 
 Tip:
-the point is the files that you creat for first time can't be backuped.
+the point is the files you creat for first time can't be backuped.
 
 
 
