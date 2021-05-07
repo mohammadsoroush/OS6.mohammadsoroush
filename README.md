@@ -92,7 +92,12 @@ Tip:
 the point is the files that you creat for first time can't be backuped.
 
 
-{{{You can use tab instead of space button}}}
+
+                                                  ......................
+
+
+
+                                               {{You can use tab instead of space button}}
 
 syntax:  nano -E file_name
 
