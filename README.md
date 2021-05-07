@@ -66,7 +66,7 @@ syntax: zip -e new_zip_file.zip
 
 Question 4:
 
-You can place cursor on specific line and column at startup
+{{{You can place cursor on specific line and column at startup}}}
 
 syntax: nano +line,column file_name
 
@@ -74,9 +74,9 @@ Ex: nano +6,3 Test.txt
 
 as soon as file opened, cursor is at the sixth line and third column.
 
---------------
 
-You can backup a file before the file get edited.
+
+{{{You can backup a file before the file get edited.}}}
 
 syntax: nano -B file_name
 
@@ -86,10 +86,14 @@ The backuped file will be saved in the current directory with the same filename 
 Tip:
 the point is the files that you creat for first time can't be backuped.
 
---------------
 
+{{{You can use tab instead of space button}}}
 
+syntax:  nano -E file_name
 
+according to title,the tabs were converted into spaces.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
