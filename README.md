@@ -81,7 +81,7 @@ as soon as file opened, cursor is at the sixth line and third column.
 
 
 
-                                    {{You can backup a file before the file get edited.}}
+                                          {{You can backup a file before the file get edited.}}
 
 syntax: nano -B file_name
 
@@ -97,7 +97,7 @@ the point is the files that you creat for first time can't be backuped.
 
 
 
-                                               {{You can use tab instead of space button}}
+                                           {{You can use tab instead of space button}}
 
 syntax:  nano -E file_name
 
