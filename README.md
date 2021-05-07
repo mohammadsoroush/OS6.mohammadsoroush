@@ -39,3 +39,30 @@ ls --sort=size -l
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Question 2:
+
+
+syntax: rar a new_rar.rar filename
+
+This will create an archive file name "new_rar" for the directory "filename"
+
+setting password:
+
+syntax: rar a –p new_rar.rar
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
