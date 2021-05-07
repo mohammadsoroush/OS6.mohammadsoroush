@@ -75,7 +75,8 @@ Ex: nano +6,3 Test.txt
 as soon as file opened, cursor is at the sixth line and third column.
 
 
-                                 .....................................................
+
+                                         ...............................
 
 
 
